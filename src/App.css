@@ -1,3 +1,26 @@
+/* img{
+  filter: invert(1);
+}
+div div div div div div div div div div div img{
+  filter: none;
+} */
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+.list-item:hover {
+  /* background-color: rgba(255, 255, 255, 0.1); */
+
+}
+body {
+  font-size: .8em;
+}
+.title {
+  font-family: system-ui;
+    font-weight: 100;
+    letter-spacing: 1px;
+    font-size: 2em;
+}
 .App {
   text-align: center;
 }
