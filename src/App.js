@@ -270,8 +270,8 @@ const Map1 = ({ setSelectedLocation,selectedMarker, setSelectedMarker,itemData }
       <Map
       //enable 'terrain' map type
        //   mapTypeId="terrain"
-         
-        mapTypeId="satellite"
+        // mapTypeId="satellite"
+        mapTypeId="hybrid"
       ref={mapRef}
         //set to size of container
         clickableIcons={false}
